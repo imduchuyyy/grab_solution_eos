@@ -1,3 +1,0 @@
-/home/duchuy/Documents/blockchain/eosio/grab_solution/build/grab_solution/CMakeFiles/rebuild_cache.dir
-/home/duchuy/Documents/blockchain/eosio/grab_solution/build/grab_solution/CMakeFiles/edit_cache.dir
-/home/duchuy/Documents/blockchain/eosio/grab_solution/build/grab_solution/CMakeFiles/grab_solution.dir
