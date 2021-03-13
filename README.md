@@ -2,7 +2,7 @@
 
 Usage
 -----
-- How to build
+1. How to build
    - cd to 'build' directory
    - run the command 'cmake ..'
    - run the command 'make'
