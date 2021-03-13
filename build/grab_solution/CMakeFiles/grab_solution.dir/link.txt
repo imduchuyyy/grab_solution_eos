@@ -1,0 +1,1 @@
+/usr/bin/eosio-ld  CMakeFiles/grab_solution.dir/grab_solution.obj -o grab_solution.wasm 

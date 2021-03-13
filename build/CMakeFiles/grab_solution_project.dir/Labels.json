@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/duchuy/Documents/blockchain/eosio/grab_solution/build/CMakeFiles/grab_solution_project"
+		},
+		{
+			"file" : "/home/duchuy/Documents/blockchain/eosio/grab_solution/build/CMakeFiles/grab_solution_project.rule"
+		},
+		{
+			"file" : "/home/duchuy/Documents/blockchain/eosio/grab_solution/build/CMakeFiles/grab_solution_project-complete.rule"
+		},
+		{
+			"file" : "/home/duchuy/Documents/blockchain/eosio/grab_solution/build/grab_solution_project-prefix/src/grab_solution_project-stamp/grab_solution_project-install.rule"
+		},
+		{
+			"file" : "/home/duchuy/Documents/blockchain/eosio/grab_solution/build/grab_solution_project-prefix/src/grab_solution_project-stamp/grab_solution_project-mkdir.rule"
+		},
+		{
+			"file" : "/home/duchuy/Documents/blockchain/eosio/grab_solution/build/grab_solution_project-prefix/src/grab_solution_project-stamp/grab_solution_project-download.rule"
+		},
+		{
+			"file" : "/home/duchuy/Documents/blockchain/eosio/grab_solution/build/grab_solution_project-prefix/src/grab_solution_project-stamp/grab_solution_project-update.rule"
+		},
+		{
+			"file" : "/home/duchuy/Documents/blockchain/eosio/grab_solution/build/grab_solution_project-prefix/src/grab_solution_project-stamp/grab_solution_project-patch.rule"
+		},
+		{
+			"file" : "/home/duchuy/Documents/blockchain/eosio/grab_solution/build/grab_solution_project-prefix/src/grab_solution_project-stamp/grab_solution_project-configure.rule"
+		},
+		{
+			"file" : "/home/duchuy/Documents/blockchain/eosio/grab_solution/build/grab_solution_project-prefix/src/grab_solution_project-stamp/grab_solution_project-build.rule"
+		},
+		{
+			"file" : "/home/duchuy/Documents/blockchain/eosio/grab_solution/build/grab_solution_project-prefix/src/grab_solution_project-stamp/grab_solution_project-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"grab_solution_project"
+		],
+		"name" : "grab_solution_project"
+	}
+}
